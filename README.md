@@ -1,6 +1,8 @@
 
 # Project Demo
 ![anim5](https://github.com/Mujanov3737/CompGraphics/assets/75598761/6792d6c3-70f0-4bb8-aa64-ffd3961fdc52)
+# Reference Image
+![refimage](https://github.com/Mujanov3737/CompGraphics/assets/75598761/ba996e80-4a41-465c-ad50-252ef86c4d75)
 # General Thoughts on Computer Graphics/Project
 ## Designing
 This project was among the more complicated I have attempted to tackle, particularly due to the fact that there is a wealth of knowledge needed to create a working program using the OpenGL specification. The discipline of computer graphics is a vast one that could easily require complete dedication and specialization in order to master. As such, designing the application took some extra thought and care. Referring to the documentation provided by the various OpenGL libraries used provided an excellent starting point when deciding what was required to begin making calls to the graphics card or establishing a basic foundation of a window and viewport. On a broader note, studying the many primitives used in creating 3D scenes and coming up with a scene to model myself was really the first starting point in the design process. It is often a mistake to get directly stuck into the programming environment and playing around with the code. But knowing the long-term goal of what the final product is intended to be, in addition to familiarizing myself with more the more theoretical concepts of 3D graphics and the OpenGL specification, were all crucial in a smoother development phase.
