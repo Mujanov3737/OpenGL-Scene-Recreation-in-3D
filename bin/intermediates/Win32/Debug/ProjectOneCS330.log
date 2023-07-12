@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\dev\ProjectOneCS330\src\Main.cpp(140,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\dev\ProjectOneCS330\src\Main.cpp(329,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ProjectOneCS330.vcxproj -> C:\dev\ProjectOneCS330\bin\Win32\Debug\ProjectOneCS330.exe
