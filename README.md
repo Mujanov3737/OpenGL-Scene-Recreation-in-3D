@@ -3,11 +3,12 @@ This repository contains a visual studio solution that builds a 3D scene using C
 
 If you choose to build the project yourself or run the executable that has been compiled already, you can control the scene as follows:
 * A and D keys to strafe the camera left and right
+* E and Q keys to strafe the camera up and down
 * W and S keys to move forward and backwards
 * Mouse scroll wheel to adjust the speed of the camera movement
 * Mouse cursor to look around the scene
 * P key to toggle the perspective from perspective to orthographic projection
-* 
+  
 # Project Demo
 ![anim5](https://github.com/Mujanov3737/OpenGL-Scene-Recreation-in-3D/assets/75598761/d01a70a3-eab5-43c9-9b52-ed7af61921b9)
 # Reference Image
