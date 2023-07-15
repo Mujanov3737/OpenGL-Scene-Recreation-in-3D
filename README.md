@@ -1,5 +1,5 @@
 # 3D Graphics w/ OpenGL
-This repository contains a visual studio solution that builds a 3D scene using C++, the OpenGL specification, and the many libraries like GLFW, GLAD, and glm used to implement OpenGL. The 3D scene was created from a 2D reference image taken by myself. While not an ideal recreation, please note this scene was created to explore and exercise knowledge on OpenGL through a coding environment, rather than a 3D graphics suite tool like Blender.
+This repository contains a visual studio solution that builds a 3D scene using C++, the OpenGL specification, and the many libraries like GLFW, GLAD, and glm used to implement OpenGL. The 3D scene was created from a 2D reference image taken by myself. While not an ideal recreation, please note this scene was created to explore and exercise knowledge on OpenGL through a coding environment, rather than a 3D graphics suite application like Blender.
 
 If you choose to build the project yourself or run the executable that has been compiled already, you can control the scene with the following scheme, which you are free to adjust:
 * A and D keys to strafe the camera left and right
